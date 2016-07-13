@@ -19,7 +19,7 @@ public class EndUserSteps extends ScenarioSteps {
 
     @Step
     public void starts_search() {
-        dictionaryPage.lookup_terms();
+        dictionaryPage.lookup_terms1();
     }
 
     @Step
